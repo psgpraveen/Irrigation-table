@@ -1,0 +1,20 @@
+.filter-bar {
+  display: flex;
+  gap: 32px;
+  margin-bottom: 18px;
+}
+
+.filter-bar label {
+  font-size: 0.97rem;
+  color: #222;
+  margin-right: 6px;
+}
+
+.filter-bar select {
+  padding: 4px 10px;
+  border-radius: 6px;
+  border: 1px solid #cfd8dc;
+  background: #f7fafd;
+  font-size: 0.98rem;
+  margin-right: 12px;
+}
