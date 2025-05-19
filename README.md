@@ -125,8 +125,8 @@ The UI is inspired by modern HR dashboards for clarity and ease of use.
 ![Main UIlace with your actual screenshot path -->
 
 
-[Image1](./src/assets/image1.png)
-[Image2](./src/assets/image.png)
+![Image1](./src/assets/image1.png)
+![Image2](./src/assets/image.png)
 
 ---
 
